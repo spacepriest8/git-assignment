@@ -1,3 +1,6 @@
 Okoronkwo Chikoadi Kingsley is a backend developer proficient in Python, JavaScript, SQL, and Java. 
 He has experience working with Django, MongoDB, and Express.js, optimizing web applications for performance and scalability. 
 Currently, he is also exploring front-end development and learning TypeScript. 🚀
+Hobbies: code , reading , gaming
+Fun Facts: i love open-source projects.
+i enjoy problem-solving
